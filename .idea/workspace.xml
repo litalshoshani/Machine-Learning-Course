@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4fb79a7-50a8-4c47-99a4-c88f36eb0f9e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/logistic_regression/README" beforeDir="false" afterPath="$PROJECT_DIR$/logistic_regression/README" afterDir="false" />
-    </list>
+    <list default="true" id="b4fb79a7-50a8-4c47-99a4-c88f36eb0f9e" name="Default Changelist" comment="" />
     <list id="33f4e8f4-f9b7-4844-a97f-30a3a3ea5bae" name="Revert &quot;added course's exercises&quot;" comment="Revert &quot;added course's exercises&quot;&#10;&#10;This reverts commit e6d5914" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,26 +23,27 @@
         <counts>
           <entry key="JPG" value="1" />
           <entry key="README" value="1" />
-          <entry key="py" value="7" />
+          <entry key="py" value="8" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="1" />
-          <entry key="PLAIN_TEXT" value="1" />
-          <entry key="Python" value="7" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Python" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="README" value="34" />
           <entry key="py" value="3" />
-          <entry key="txt" value="66" />
+          <entry key="txt" value="93" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="100" />
+          <entry key="PLAIN_TEXT" value="127" />
           <entry key="Python" value="3" />
         </counts>
       </usages-collector>
@@ -64,11 +63,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/logistic_regression/README">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="108">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/classification_task/README.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -98,6 +106,8 @@
         <option value="$PROJECT_DIR$/temp.py" />
         <option value="$PROJECT_DIR$/logistic_regression/ex2.py" />
         <option value="$PROJECT_DIR$/logistic_regression/README" />
+        <option value="$PROJECT_DIR$/classification_task.py" />
+        <option value="$PROJECT_DIR$/classification_task/README.txt" />
       </list>
     </option>
   </component>
@@ -123,7 +133,7 @@
             <path>
               <item name="Machine-Learning-Course" type="b2602c69:ProjectViewProjectNode" />
               <item name="Machine-Learning-Course" type="462c0819:PsiDirectoryNode" />
-              <item name="logistic_regression" type="462c0819:PsiDirectoryNode" />
+              <item name="classification_task" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -263,10 +273,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/classification_task.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/logistic_regression/README">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="108">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/classification_task/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
         </state>
       </provider>
     </entry>
